@@ -24,6 +24,9 @@
 /assets/vendor/
 ###< symfony/asset-mapper ###
 
-###> .idea
+###> .idea & Project
 .idea
-###< .idea
+.idea/*
+public/uploads
+public/uploads/*
+###< .idea & Project
